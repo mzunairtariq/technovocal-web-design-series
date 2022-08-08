@@ -11,7 +11,11 @@ Web design, or web designing, is the building of websites and web pages to refle
 
 As a web designer, you are responsible for important decisions like the menus provided on the site as well as little details like the font, color, and graphics to choose.
 
-![Web designer designing a website](images/001-Intro of web design for beginners/Web designer designing a website.png)
+<br />
+<div align="center">
+  <img src="images/001-Intro of web design for beginners/Web designer designing a website.png" />
+</div>
+<br />
 
 A web designer creates the layout and design of a website. In simple terms, a website designer makes a site look attractive. They use design programs to produce visual elements. Website designers generally have skills in UI, or user interface, which means they intentionally design a site that’s convenient and simple for users to navigate.
  
@@ -31,7 +35,11 @@ Web designers are the professionals who carry out this process, and their respon
 
 Thanks to the web design process, designers can adapt to any preferences and provide effective solutions.
 
-![technovocal - Elements of web design](images/001-Intro of web design for beginners/technovocal - Elements of web design.png "technovocal - Elements of web design")
+<br />
+<div align="center">
+  <img src="images/001-Intro of web design for beginners/technovocal - Elements of web design.png" />
+</div>
+<br />
 
 Every web design involves many standard components, such as:
 
@@ -39,7 +47,11 @@ Every web design involves many standard components, such as:
 
 The layout of the website is how the content is displayed on a web page. Choosing the layout is an important task for the designer. It should be easy, intuitive, and approachable. Web designers can use blank areas called "white spaces" to organize the components of the site with grid-based designs to keep them in order.
 
-![technovocal - Overall Layout and Visual Appearance](images/001-Intro of web design for beginners/technovocal - Overall Layout and Visual Appearance.png)
+<br />
+<div align="center">
+  <img src="images/001-Intro of web design for beginners/technovocal - Overall Layout and Visual Appearance.png" />
+</div>
+<br />
 
 Designers can build specialized layouts for desktop screens and mobile devices. Mobile-friendly websites are a must because many visitors browse websites on their smartphones or tablets. To guarantee a website is ready for mobile users, the designer can use a responsive layout that adapts to multiple screen sizes or a mobile-only look that will activate when a non-desktop device connects to the website. A consistent layout between supports contributes to the visitors' trust.
 
@@ -49,7 +61,11 @@ People are visual creatures, so using great graphics to make your website more a
 
 A color scheme is the aesthetic style of a piece of art, consisting of the color choices used to create it. When making a decision about what colors to use, your first step should be choosing a theme. A theme is something that stands out from the rest, something that sets you apart from everyone else. Themes are often associated with certain moods or feelings, which helps guide your choice. 
 
-![technovocal - Color Scheme](images/001-Intro of web design for beginners/technovocal - Color Scheme.png)
+<br />
+<div align="center">
+  <img src="images/001-Intro of web design for beginners/technovocal - Color Scheme.png" />
+</div>
+<br />
 
 Choosing a color scheme that's right for you can be subjective since there are so many ways to express yourself visually. You may want to consider your personality type and how you feel at different times. There are various types of color schemes, including monochromatic color schemes, triadic color schemes, and analogous color schemes. Monochromatic schemes start with one primary hue (a single shade) and then add one or more complimentary shades to complete the composition. Triadic schemes consist of three complementary colors arranged in a triangle shape. Analogous color schemes have similar tones of color placed close together. These arrangements tend to look good together, rather than being contrasting.
 
@@ -57,7 +73,11 @@ Choosing a color scheme that's right for you can be subjective since there are s
 
 Typography is the art of arranging typeface designs, sizes, and styles to create visual communication messages. In short, typography does not refer to how text looks, but rather how it’s arranged and presented. 
 
-![technovocal - Typography](images/001-Intro of web design for beginners/technovocal - Typography.png)
+<br />
+<div align="center">
+  <img src="images/001-Intro of web design for beginners/technovocal - Typography.png" />
+</div>
+<br />
 
 There are many types of fonts, each having their own characteristics. Web designers pick one or a combination of ones that is attractive and easy to read. To make the best choice, web designers should choose a font that corresponds to the target audience. Some sites may be better in serif fonts, while others can use non-serif fonts, depending on the site's industry, purpose, and typical user.
 
@@ -65,7 +85,11 @@ There are many types of fonts, each having their own characteristics. Web design
 
 Navigation means moving between pages. When you visit a website and read content, you are actually navigating between pages. Browsers have built-in features that allow you to do this. In addition to reading content, you can also search for things, bookmark sites, save them for later, share links with others, and much more.
 
-![technovocal - Navigation](images/001-Intro of web design for beginners/technovocal - Navigation.png)
+<br />
+<div align="center">
+  <img src="images/001-Intro of web design for beginners/technovocal - Navigation.png" />
+</div>
+<br />
 
 The navigational elements are the tools that allow users to determine where they need to go within a website. They may be present in the header, body, and footer of the website, depending on the site's layout and structure. These elements are important since they bring visitors to the information they desire as quickly and efficiently as possible.
 
@@ -75,8 +99,11 @@ Designers can choose from a variety of navigation designs and layouts, such as u
 
 "Content" is a term used to describe the information that appears on websites. It is a vital part because your site visitors and potential customers want information immediately. 
 
-
-![technovocal - Content](images/001-Intro of web design for beginners/technovocal - Content.png)
+<br />
+<div align="center">
+  <img src="images/001-Intro of web design for beginners/technovocal - Content.png" />
+</div>
+<br />
 
 Is your brand trustworthy? Is it knowledgeable? Is it capable of providing top-notch products and services? Given people’s short attention spans and lightning-fast first impressions, communicating properly is crucial. Information should be easy to read and digest.
 
@@ -84,8 +111,11 @@ Is your brand trustworthy? Is it knowledgeable? Is it capable of providing top-n
 
 A responsive website displays content at the correct size based on the device it's being displayed on. 
 
-
-![technovocal - Responsive Web Design](images/001-Intro of web design for beginners/technovocal - Responsive Web Design.png)
+<br />
+<div align="center">
+  <img src="images/001-Intro of web design for beginners/technovocal - Responsive Web Design.png" />
+</div>
+<br />
 
 In the early days, mobile websites were often not responsive (i.e., they would look just fine on a desktop computer, but poorly on a smartphone), while many modern sites now have a single version that works on desktop computers, smartphones, tablets, etc.
  
